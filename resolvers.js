@@ -1,4 +1,5 @@
 const resolvers = {
+  // test
   Query: {
     activities: (_, __, { dataSources }) => {
       return dataSources.activitiesAPI.getAllActivities()
