@@ -10,7 +10,8 @@
       "minimumAge": 18,
       "averageTemperature": 90,
       "groupSize": 2,
-      "lengthOfDay": 43
+      "lengthOfDay": 43,
+      "dangerRating": 5
     },
     { 
       "id": "act-2",
@@ -23,7 +24,8 @@
       "averageTemperature": 90,
       "gravity": 2.1,
       "groupSize": 10,
-      "lengthOfDay": 43
+      "lengthOfDay": 43,
+      "dangerRating": 4
     },
     { 
       "id": "act-3",
@@ -36,7 +38,8 @@
       "gravity": 10.4,
       "averageTemperature": 4,
       "groupSize": 5,
-      "lengthOfDay": 3
+      "lengthOfDay": 3,
+      "dangerRating": 5
     },
     { 
       "id": "act-4",
@@ -49,7 +52,8 @@
       "averageTemperature": 15,
       "gravity": 9,
       "groupSize": 20,
-      "lengthOfDay": 533
+      "lengthOfDay": 533,
+      "dangerRating": 2
     },
     {
       "id": "act-5",
@@ -62,7 +66,8 @@
       "averageTemperature": -4324,
       "gravity": 8.2,
       "groupSize": 4,
-      "lengthOfDay": 13
+      "lengthOfDay": 13,
+      "dangerRating": 5
     },
     {
       "id": "act-6",
@@ -75,7 +80,8 @@
       "averageTemperature": 35,
       "gravity": 9.1,
       "groupSize": 2,
-      "lengthOfDay": 533
+      "lengthOfDay": 533,
+      "dangerRating": 3
     },
     {
       "id": "act-7",
@@ -88,7 +94,8 @@
       "averageTemperature": -200,
       "gravity": 2.3,
       "groupSize": 8,
-      "lengthOfDay": 95
+      "lengthOfDay": 95,
+      "dangerRating": 5
     },
     {
       "id": "act-8",
@@ -101,7 +108,8 @@
       "averageTemperature": 13,
       "gravity": 6.4,
       "groupSize": 30,
-      "lengthOfDay": 95
+      "lengthOfDay": 95,
+      "dangerRating": 1
     },
     {
       "id": "act-9",
@@ -114,7 +122,8 @@
       "averageTemperature": 4,
       "gravity": 10.4,
       "groupSize": 8,
-      "lengthOfDay": 3
+      "lengthOfDay": 3,
+      "dangerRating": 5
     },
     {
       "id": "act-10",
@@ -127,7 +136,8 @@
       "averageTemperature": -234,
       "gravity": 0,
       "groupSize": 25,
-      "lengthOfDay": 13
+      "lengthOfDay": 13,
+      "dangerRating": 3
     }
   ]
 }
